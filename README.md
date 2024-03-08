@@ -1,1 +1,1 @@
-# Code that Connect Four.
+# Code that Connect Four Game.
